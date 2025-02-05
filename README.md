@@ -1,4 +1,4 @@
-# 📌 Trabajos Prácticos - Conceptos y Aplicaciones Big Data
+# 📌 Trabajos Prácticos - Conceptos y Aplicaciones en Big Data
 
 Este repositorio contiene trabajos prácticos y ejercicios de la materia **Conceptos y Aplicaciones Big Data**, donde se han utilizado diversas herramientas del ecosistema Big Data para el procesamiento y análisis de grandes volúmenes de datos. 🚀
 
